@@ -1,0 +1,10 @@
+C:\Users\berka\OneDrive\Masaüstü\projelerim\SigarayıBırakUygulama\SıgarayıBırakApp\SıgarayıBırakApp\bin\Debug\SıgarayıBırakApp.exe.config
+C:\Users\berka\OneDrive\Masaüstü\projelerim\SigarayıBırakUygulama\SıgarayıBırakApp\SıgarayıBırakApp\bin\Debug\SıgarayıBırakApp.exe
+C:\Users\berka\OneDrive\Masaüstü\projelerim\SigarayıBırakUygulama\SıgarayıBırakApp\SıgarayıBırakApp\bin\Debug\SıgarayıBırakApp.pdb
+C:\Users\berka\OneDrive\Masaüstü\projelerim\SigarayıBırakUygulama\SıgarayıBırakApp\SıgarayıBırakApp\obj\Debug\SıgarayıBırakApp.csprojAssemblyReference.cache
+C:\Users\berka\OneDrive\Masaüstü\projelerim\SigarayıBırakUygulama\SıgarayıBırakApp\SıgarayıBırakApp\obj\Debug\SıgarayıBırakApp.Form1.resources
+C:\Users\berka\OneDrive\Masaüstü\projelerim\SigarayıBırakUygulama\SıgarayıBırakApp\SıgarayıBırakApp\obj\Debug\SıgarayıBırakApp.Properties.Resources.resources
+C:\Users\berka\OneDrive\Masaüstü\projelerim\SigarayıBırakUygulama\SıgarayıBırakApp\SıgarayıBırakApp\obj\Debug\SıgarayıBırakApp.csproj.GenerateResource.cache
+C:\Users\berka\OneDrive\Masaüstü\projelerim\SigarayıBırakUygulama\SıgarayıBırakApp\SıgarayıBırakApp\obj\Debug\SıgarayıBırakApp.csproj.CoreCompileInputs.cache
+C:\Users\berka\OneDrive\Masaüstü\projelerim\SigarayıBırakUygulama\SıgarayıBırakApp\SıgarayıBırakApp\obj\Debug\SıgarayıBırakApp.exe
+C:\Users\berka\OneDrive\Masaüstü\projelerim\SigarayıBırakUygulama\SıgarayıBırakApp\SıgarayıBırakApp\obj\Debug\SıgarayıBırakApp.pdb
